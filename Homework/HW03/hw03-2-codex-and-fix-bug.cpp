@@ -1,6 +1,6 @@
 // TODO: #9 Fix bug and arrange code in CODEX pattern.
 #include <stdio.h>
-#include <conio.h>
+
 int main()
 {
     float a, b = 3;
