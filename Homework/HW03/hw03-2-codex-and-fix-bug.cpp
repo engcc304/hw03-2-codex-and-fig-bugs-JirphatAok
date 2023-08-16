@@ -21,6 +21,8 @@ int main()
             printf("see see");
             printf("haha");
         }
+        printf("haha");
     }
     return 0;
 }
+
